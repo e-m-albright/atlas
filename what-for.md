@@ -10,3 +10,5 @@ hobbies
 
 hope to contribute to the world, improved mental and physical health
 
+PERSONAL notebook, journal, organizer
+

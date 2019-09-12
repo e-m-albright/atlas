@@ -4,6 +4,7 @@
 * [Taxonomy](taxonomy.md)
 * [What For?](what-for.md)
 * [TODO](todo.md)
+* [What I'm Checking Out](what-im-checking-out.md)
 
 ## Data Science
 
@@ -57,6 +58,7 @@
   * [Persuasion](psychology/social-psychology/persuasion.md)
   * [Negotiation](psychology/social-psychology/negotiation.md)
 * [Psychopathology](psychology/psychopathology/README.md)
+  * [Meditation](psychology/psychopathology/meditation.md)
   * [Perfectionism](psychology/psychopathology/perfectionism.md)
   * [Anxiety](psychology/psychopathology/anxiety.md)
   * [Stress](psychology/psychopathology/stress/README.md)
@@ -85,6 +87,7 @@
 
 * [History](anthropology/we-live-in-a-society/README.md)
   * [Rome](anthropology/we-live-in-a-society/rome.md)
+* [Dance](anthropology/dance.md)
 
 ## Philosophy
 
@@ -95,38 +98,35 @@
 * [Game Theory](economics/game-theory.md)
 * [Index](economics/index.md)
 
-## Narratology
-
-* [Purpose](narratology/purpose.md)
-* [Books](narratology/books.md)
-* [Poetry](narratology/poetry.md)
-* [Movies](narratology/movies.md)
-* [T.V. Shows](narratology/t.v.-shows.md)
-
-## Physiology
-
-* [Strength Training](physiology/strength-training.md)
-
-## Gastronomy
-
-* [Beverages](gastronomy/beverages/README.md)
-  * [Tea](gastronomy/beverages/tea.md)
-  * [Wine](gastronomy/beverages/wine.md)
-  * [Coffee](gastronomy/beverages/coffee.md)
-* [Cooking](gastronomy/cooking/README.md)
-  * [Fermenting](gastronomy/cooking/fermenting.md)
-
-## Botany
-
-* [Gardening](botany/gardening.md)
-
-## Miscellany
-
-* [Fishing](miscellany/fishing.md)
-* [Hunting](miscellany/hunting.md)
-* [Automobiles](miscellany/automobiles.md)
-
 ## Design
 
 * [Product](design/product.md)
+
+## Miscellany
+
+* [Art](miscellany/art.md)
+* [Botany](miscellany/botany/README.md)
+  * [Gardening](miscellany/botany/gardening.md)
+* [Fashion](miscellany/fashion.md)
+* [Gastronomy](miscellany/gastronomy/README.md)
+  * [Beverages](miscellany/gastronomy/beverages/README.md)
+    * [Tea](miscellany/gastronomy/beverages/tea.md)
+    * [Wine](miscellany/gastronomy/beverages/wine.md)
+    * [Coffee](miscellany/gastronomy/beverages/coffee.md)
+  * [Cooking](miscellany/gastronomy/cooking/README.md)
+    * [Fermenting](miscellany/gastronomy/cooking/fermenting.md)
+* [Mechanical Engineering](miscellany/mechanical-engineering/README.md)
+  * [Automobiles](miscellany/mechanical-engineering/automobiles.md)
+* [Narratology](miscellany/narratology/README.md)
+  * [Tabletop Games](miscellany/narratology/tabletop-games.md)
+  * [Books](miscellany/narratology/books.md)
+  * [Poetry](miscellany/narratology/poetry.md)
+  * [Movies](miscellany/narratology/movies.md)
+  * [T.V. Shows](miscellany/narratology/t.v.-shows.md)
+* [Physiology](miscellany/physiology/README.md)
+  * [Diet](miscellany/physiology/diet.md)
+  * [Strength Training](miscellany/physiology/strength-training.md)
+* [Wildlife](miscellany/wildlife/README.md)
+  * [Fishing](miscellany/wildlife/fishing.md)
+  * [Hunting](miscellany/wildlife/hunting.md)
 
