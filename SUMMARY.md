@@ -2,7 +2,6 @@
 
 * [Amnesia](README.md)
 * [Taxonomy](taxonomy.md)
-* [TODO](todo.md)
 * [Author](what-im-checking-out/README.md)
   * [Evan Albright](https://www.evanalbright.com)
 

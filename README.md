@@ -4,6 +4,8 @@ description: 'late 18th century: from Greek amnēsia ‘forgetfulness’.'
 
 # Amnesia
 
+## If you're here, you're here waaaay too early.
+
 ## Impediments to Remembering
 
 1. Encoding failures - we don't learn the information in the first place
