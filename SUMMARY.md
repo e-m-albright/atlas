@@ -7,9 +7,12 @@
 
 ## Data Science
 
+* [Bayesian Thinking](data-science/bayesian-thinking.md)
 * [Bias](data-science/bias.md)
-* [Data Management](data-science/data-management.md)
-* [Gotcha's](data-science/gotchas.md)
+* [Common Mistakes](data-science/gotchas.md)
+* [Data Engineering](data-science/data-management.md)
+* [Data Analysis](data-science/data-analysis/README.md)
+  * [Exploratory Data Analysis](data-science/data-analysis/exploratory-data-analysis.md)
 * [Subscriptions & Industry Watch](data-science/subscriptions/README.md)
   * [Google AI](https://ai.google/)
 * [Team](data-science/team/README.md)
@@ -50,6 +53,8 @@
 ## Statistics
 
 * [Index](statistics/untitled.md)
+* [Experimentation](statistics/experimentation/README.md)
+  * [Experimental Design](statistics/experimentation/experimental-design.md)
 
 ## Visualization
 
@@ -59,7 +64,8 @@
 
 ## Public Health
 
-* [Behavioral Change](public-health/behavioral-change.md)
+* [Behavioral Change](public-health/behavioral-change/README.md)
+  * [Clinical Research](public-health/behavioral-change/clinical-research.md)
 
 ## Psychology
 
