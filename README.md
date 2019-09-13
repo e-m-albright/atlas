@@ -12,19 +12,17 @@ description: 'late 18th century: from Greek amnēsia ‘forgetfulness’.'
 4. Interference - other memories get in the way
 5. Trying not to remember - we deliberately attempt to keep things out of mind
 
-### Fixed
+my main interest here
 
-* Removed humans, they weren't doing fine with animals.
+data science
 
-### Changed
+public health \(mental and physical wellbeing\) hope to contribute to the world, improved mental and physical health
 
-* Animals are now super cute, all of them.
+cognitive science
 
-## 14.0.0 - 2042-10-06
+hobbies
 
-### Added
-
-* Introduced animals into the world, we believe they're going to be a neat addition.
+PERSONAL notebook, journal, organizer
 
 
 

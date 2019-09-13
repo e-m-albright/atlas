@@ -1,5 +1,7 @@
 # Bias
 
+**As a truth seeker, with noble intentions. You're primary enemy in life is not going to be lies or a lack of clarity, but the perversion of the truth, in the form of bias. These are cognitive, and statistical.**
+
 **Dunning Kreuger Effect**
 
 **Murphy's Law**

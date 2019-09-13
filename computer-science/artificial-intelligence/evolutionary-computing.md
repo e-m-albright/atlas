@@ -1,4 +1,4 @@
-# Evolutionary Computing
+# Evolutionary Computation
 
 #### **Evolutionary Computing**
 

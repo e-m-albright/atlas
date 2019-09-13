@@ -6,6 +6,23 @@ Machine Learning / A.I.
 
 Google's AI Course [https://www.reddit.com/r/programming/comments/8k3s6g/google\_provides\_free\_machine\_learning\_course\_for/](https://www.reddit.com/r/programming/comments/8k3s6g/google_provides_free_machine_learning_course_for/)
 
+[**https://ml-cheatsheet.readthedocs.io/en/latest/gradient\_descent.html**](https://ml-cheatsheet.readthedocs.io/en/latest/gradient_descent.html)  
+**universal approximator**
+
+**ridge function**
+
+**projection pursuit regression**
+
+**softmax function**
+
+**activation function**
+
+**multilogit model**
+
+**step function vs threshold function**
+
+**cross entropy**
+
 https://developers.google.com/machine-learning/rules-of-ml/
 
 https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3

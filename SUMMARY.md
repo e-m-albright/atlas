@@ -2,35 +2,44 @@
 
 * [Amnesia](README.md)
 * [Taxonomy](taxonomy.md)
-* [What For?](what-for.md)
 * [TODO](todo.md)
-* [What I'm Checking Out](what-im-checking-out.md)
+* [Author](what-im-checking-out/README.md)
+  * [Evan Albright](https://www.evanalbright.com)
 
 ## Data Science
 
 * [Bias](data-science/bias.md)
 * [Data Management](data-science/data-management.md)
 * [Gotcha's](data-science/gotchas.md)
-* [Subscriptions](data-science/subscriptions/README.md)
+* [Subscriptions & Industry Watch](data-science/subscriptions/README.md)
   * [Google AI](https://ai.google/)
-* [Team](data-science/team.md)
+* [Team](data-science/team/README.md)
+  * [Processes](data-science/team/processes.md)
 * [Toolbelt](data-science/untitled/README.md)
   * [Command Line](data-science/untitled/command-line.md)
   * [Programming](data-science/untitled/programming.md)
   * [Index](data-science/untitled/index.md)
+* [Machine Learning Engineering](data-science/machine-learning-engineering/README.md)
+  * [Google's Rules of ML](https://developers.google.com/machine-learning/guides/rules-of-ml/)
 
 ## Computer Science
 
 * [Algorithms](computer-science/algorithms.md)
 * [Artificial Intelligence](computer-science/artificial-intelligence/README.md)
+  * [Evolutionary Computation](computer-science/artificial-intelligence/evolutionary-computing.md)
   * [Machine Learning](computer-science/artificial-intelligence/machine-learning/README.md)
     * [Generalizability](computer-science/artificial-intelligence/machine-learning/generalizability.md)
-    * [Evolutionary Computing](computer-science/artificial-intelligence/machine-learning/evolutionary-computing.md)
+    * [Scikit-Learn's ML Map](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
     * [Graphical Models](computer-science/artificial-intelligence/machine-learning/graphical-models.md)
     * [Deep Learning](computer-science/artificial-intelligence/machine-learning/deep-learning.md)
-* [Natural Language Processing](computer-science/natural-language-processing.md)
+    * [Reinforcement Learning](computer-science/artificial-intelligence/machine-learning/reinforcement-learning.md)
 * [Computer Vision](computer-science/computer-vision.md)
+* [Human Computer Interactions](computer-science/human-computer-interactions/README.md)
+  * [Product Design](computer-science/human-computer-interactions/product.md)
+* [Natural Language Processing](computer-science/natural-language-processing.md)
+* [Networking](computer-science/networking.md)
 * [Software Development](computer-science/software-development/README.md)
+  * [Architecture](computer-science/software-development/architecture.md)
   * [Programming Paradigms](computer-science/software-development/programming-paradigms.md)
   * [Subscriptions](computer-science/software-development/subscriptions.md)
 * [Systems](computer-science/systems.md)
@@ -45,7 +54,9 @@
 
 ## Visualization
 
-* [Index](visualization/untitled.md)
+* [Index](visualization/untitled/README.md)
+  * [The Data Visualization Catalogue](https://datavizcatalogue.com/)
+* [Storytelling](visualization/storytelling.md)
 
 ## Public Health
 
@@ -63,6 +74,8 @@
   * [Dog Training](psychology/comparative-psychology/dog-training.md)
 * [Evolutionary Psychology](psychology/evolutionary-psychology/README.md)
   * [Superstition](psychology/evolutionary-psychology/superstition.md)
+* [Neuropsychology](psychology/neuropsychology/README.md)
+  * [Memory](psychology/neuropsychology/memory.md)
 * [Performance Science](psychology/performance-science.md)
 * [Positive Psychology](psychology/positive-psychology.md)
 * [Psychopathology](psychology/psychopathology/README.md)
@@ -85,8 +98,6 @@
 
 ## Neuroscience
 
-* [Memory](neuroscience/memory.md)
-* [Forgetting](https://nobaproject.com/modules/forgetting-and-amnesia)
 * [Social Neuroscience](neuroscience/social-neuroscience.md)
 
 ## Linguistics
@@ -110,21 +121,14 @@
 * [Wisdom](philosophy/wisdom.md)
 * [Index](philosophy/index.md)
 
-## Economics
-
-* [Game Theory](economics/game-theory.md)
-* [Index](economics/index.md)
-
-## Design
-
-* [Product](design/product.md)
-
 ## Miscellany
 
 * [Art](miscellany/art/README.md)
   * [Psychology of Art](miscellany/art/psychology-of-art.md)
 * [Botany](miscellany/botany/README.md)
   * [Gardening](miscellany/botany/gardening.md)
+* [Economics](miscellany/economics/README.md)
+  * [Game Theory](miscellany/economics/game-theory.md)
 * [Fashion](miscellany/fashion.md)
 * [Gastronomy](miscellany/gastronomy/README.md)
   * [Beverages](miscellany/gastronomy/beverages/README.md)

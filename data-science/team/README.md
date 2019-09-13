@@ -8,5 +8,7 @@
 
 
 
-http://people.math.gatech.edu/~cain/textbooks/onlinebooks.html
+- knowledge share - shadow deployments, model testing & evaluation, documentation frameworks, data version control, model versioning \(gitbook/mkdoc/docusaurus for team? [cookie cutter projects](https://drivendata.github.io/cookiecutter-data-science/), cont deploy, [https://netgen.io/blog/the-most-overlooked-part-in-software-development-writing-project-documentation](https://netgen.io/blog/the-most-overlooked-part-in-software-development-writing-project-documentation)\)
+
+{% embed url="http://people.math.gatech.edu/~cain/textbooks/onlinebooks.html" %}
 
