@@ -31,6 +31,8 @@
     * [SQL](data-science/untitled/programming/sql.md)
     * [Python](data-science/untitled/programming/python/README.md)
       * [Broadcasting](data-science/untitled/programming/python/broadcasting.md)
+      * [Parallelization](data-science/untitled/programming/python/parallelization/README.md)
+        * [Ray](data-science/untitled/programming/python/parallelization/ray.md)
     * [R](data-science/untitled/programming/r.md)
     * [Jupyter](data-science/untitled/programming/jupyter.md)
     * [Regex](data-science/untitled/programming/regex.md)
@@ -39,10 +41,13 @@
     * [Plotly](data-science/untitled/visualization/plotly.md)
   * [Machine Learning](data-science/untitled/machine-learning/README.md)
     * [SKLearn & SciPy](data-science/untitled/machine-learning/sklearn-and-scipy.md)
+    * [Keras](data-science/untitled/machine-learning/keras.md)
+    * [PyTorch](data-science/untitled/machine-learning/pytorch.md)
     * [XGBoost](data-science/untitled/machine-learning/xgboost.md)
     * [AutoML](data-science/untitled/machine-learning/automl.md)
   * [Statistics](data-science/untitled/statistics/README.md)
     * [Experiments & Metrics](data-science/untitled/statistics/experiments-and-metrics.md)
+    * [Dimensionality Reduction](data-science/untitled/statistics/dimensionality-reduction.md)
 * [Subscriptions & Industry Watch](data-science/subscriptions/README.md)
   * [Google AI](https://ai.google/)
 * [Practice](data-science/practice.md)
@@ -73,6 +78,9 @@
 ## Math
 
 * [Index](math/untitled.md)
+* [Linear Algebra](math/linear-algebra/README.md)
+  * [Vectors](math/linear-algebra/vectors.md)
+  * [Matrices](math/linear-algebra/matrices.md)
 
 ## Statistics
 
@@ -83,6 +91,7 @@
   * [Descriptive Statistics](statistics/distributions/descriptive-statistics.md)
 * [Probability](statistics/probability.md)
 * [Regression](statistics/regression.md)
+* [Signal Processing](statistics/signal-processing.md)
 
 ## Visualization
 
