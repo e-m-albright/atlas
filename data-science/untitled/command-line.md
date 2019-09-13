@@ -15,7 +15,7 @@ grep
 
 rsync \(can I mirror directories off AWS?\)
 
-
+**rsync -zvh -e ssh output/cache/application\_weights.feather nfs:~/**
 
 Keyboard layout: colemak
 

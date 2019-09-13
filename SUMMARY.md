@@ -7,26 +7,50 @@
 
 ## Data Science
 
-* [Bayesian Thinking](data-science/bayesian-thinking.md)
-* [Bias](data-science/bias.md)
-* [Common Mistakes](data-science/gotchas.md)
-* [Data Engineering](data-science/data-management.md)
+* [Bayesian Thinking](data-science/bayesian-thinking/README.md)
+  * [Bias](data-science/bayesian-thinking/bias.md)
+  * [Common Mistakes](data-science/bayesian-thinking/gotchas.md)
+* [Data Engineering](data-science/data-management/README.md)
+  * [Database Design](data-science/data-management/database-design.md)
 * [Data Analysis](data-science/data-analysis/README.md)
   * [Exploratory Data Analysis](data-science/data-analysis/exploratory-data-analysis.md)
-* [Subscriptions & Industry Watch](data-science/subscriptions/README.md)
-  * [Google AI](https://ai.google/)
+* [Machine Learning Engineering](data-science/machine-learning-engineering/README.md)
+  * [Google's Rules of ML](https://developers.google.com/machine-learning/guides/rules-of-ml/)
 * [Team](data-science/team/README.md)
   * [Processes](data-science/team/processes.md)
 * [Toolbelt](data-science/untitled/README.md)
   * [Command Line](data-science/untitled/command-line.md)
-  * [Programming](data-science/untitled/programming.md)
-  * [Index](data-science/untitled/index.md)
-* [Machine Learning Engineering](data-science/machine-learning-engineering/README.md)
-  * [Google's Rules of ML](https://developers.google.com/machine-learning/guides/rules-of-ml/)
+  * [Cloud Computing](data-science/untitled/cloud-computing/README.md)
+    * [AWS](data-science/untitled/cloud-computing/aws.md)
+    * [MapReduce](data-science/untitled/cloud-computing/mapreduce.md)
+  * [Environment Management](data-science/untitled/environment-management/README.md)
+    * [Git](data-science/untitled/environment-management/git.md)
+    * [Docker](data-science/untitled/environment-management/docker.md)
+    * [Conda](data-science/untitled/environment-management/conda.md)
+  * [Programming](data-science/untitled/programming/README.md)
+    * [SQL](data-science/untitled/programming/sql.md)
+    * [Python](data-science/untitled/programming/python/README.md)
+      * [Broadcasting](data-science/untitled/programming/python/broadcasting.md)
+    * [R](data-science/untitled/programming/r.md)
+    * [Jupyter](data-science/untitled/programming/jupyter.md)
+    * [Regex](data-science/untitled/programming/regex.md)
+  * [Visualization](data-science/untitled/visualization/README.md)
+    * [JS / HTML / CSS](data-science/untitled/visualization/js-html-css.md)
+    * [Plotly](data-science/untitled/visualization/plotly.md)
+  * [Machine Learning](data-science/untitled/machine-learning/README.md)
+    * [SKLearn & SciPy](data-science/untitled/machine-learning/sklearn-and-scipy.md)
+    * [XGBoost](data-science/untitled/machine-learning/xgboost.md)
+    * [AutoML](data-science/untitled/machine-learning/automl.md)
+  * [Statistics](data-science/untitled/statistics/README.md)
+    * [Experiments & Metrics](data-science/untitled/statistics/experiments-and-metrics.md)
+* [Subscriptions & Industry Watch](data-science/subscriptions/README.md)
+  * [Google AI](https://ai.google/)
+* [Practice](data-science/practice.md)
 
 ## Computer Science
 
 * [Algorithms](computer-science/algorithms.md)
+* [Big-O Notation](computer-science/big-o-notation.md)
 * [Artificial Intelligence](computer-science/artificial-intelligence/README.md)
   * [Evolutionary Computation](computer-science/artificial-intelligence/evolutionary-computing.md)
   * [Machine Learning](computer-science/artificial-intelligence/machine-learning/README.md)
@@ -55,6 +79,10 @@
 * [Index](statistics/untitled.md)
 * [Experimentation](statistics/experimentation/README.md)
   * [Experimental Design](statistics/experimentation/experimental-design.md)
+* [Distributions](statistics/distributions/README.md)
+  * [Descriptive Statistics](statistics/distributions/descriptive-statistics.md)
+* [Probability](statistics/probability.md)
+* [Regression](statistics/regression.md)
 
 ## Visualization
 
@@ -123,11 +151,13 @@
 ## Philosophy
 
 * [Logic](philosophy/logic.md)
-* [Wisdom](philosophy/wisdom.md)
+* [Wisdom](philosophy/wisdom/README.md)
+  * [Adages](philosophy/wisdom/adages.md)
 * [Index](philosophy/index.md)
 
 ## Miscellany
 
+* [Advice for Pivotal Decisions](miscellany/advice-for-pivotal-decisions.md)
 * [Art](miscellany/art/README.md)
   * [Psychology of Art](miscellany/art/psychology-of-art.md)
 * [Botany](miscellany/botany/README.md)

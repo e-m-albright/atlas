@@ -116,11 +116,7 @@ otherwise stated as "When the only tool you have is a hammer, every problem look
 
 **Dunning Kreuger Effect**
 
-**Murphy's Law**
-
-[**https://en.wikipedia.org/wiki/List\_of\_eponymous\_laws**](https://en.wikipedia.org/wiki/List_of_eponymous_laws)
-
-**Philosophy perhaps?**
+\*\*\*\*
 
 ###  
 
