@@ -28,6 +28,7 @@
     * [Docker](data-science/untitled/environment-management/docker.md)
     * [Conda](data-science/untitled/environment-management/conda.md)
   * [Programming](data-science/untitled/programming/README.md)
+    * [Resources](data-science/untitled/programming/resources.md)
     * [SQL](data-science/untitled/programming/sql.md)
     * [Python](data-science/untitled/programming/python/README.md)
       * [Broadcasting](data-science/untitled/programming/python/broadcasting.md)
@@ -48,9 +49,18 @@
   * [Statistics](data-science/untitled/statistics/README.md)
     * [Experiments & Metrics](data-science/untitled/statistics/experiments-and-metrics.md)
     * [Dimensionality Reduction](data-science/untitled/statistics/dimensionality-reduction.md)
-* [Subscriptions & Industry Watch](data-science/subscriptions/README.md)
+* [Subscriptions](data-science/subscriptions/README.md)
   * [Google AI](https://ai.google/)
-* [Practice](data-science/practice.md)
+  * [Towards Data Science](https://towardsdatascience.com/)
+  * [KD Nuggets](https://www.kdnuggets.com/)
+  * [Driven Data](https://twitter.com/drivendataorg)
+  * [Harvard DS Review](https://hdsr.mitpress.mit.edu/)
+* [Practice](data-science/practice/README.md)
+  * [Learn X in Y](https://learnxinyminutes.com/)
+  * [Google AI Education](https://ai.google/education)
+  * [Google Dev ML Crash Course](https://developers.google.com/machine-learning/crash-course/)
+* [Articles](data-science/articles.md)
+* [Communities](data-science/communities.md)
 
 ## Computer Science
 
@@ -73,7 +83,9 @@
   * [Architecture](computer-science/software-development/architecture.md)
   * [Programming Paradigms](computer-science/software-development/programming-paradigms.md)
   * [Subscriptions](computer-science/software-development/subscriptions.md)
-* [Systems](computer-science/systems.md)
+* [Systems](computer-science/systems/README.md)
+  * [Computer Architecture](computer-science/systems/computer-architecture.md)
+  * [Operating Systems](computer-science/systems/operating-systems.md)
 
 ## Math
 
@@ -114,6 +126,7 @@
   * [Outlook](psychology/clinical-psychology/outlook.md)
 * [Comparative Psychology](psychology/comparative-psychology/README.md)
   * [Dog Training](psychology/comparative-psychology/dog-training.md)
+* [Developmental Psychology](psychology/developmental-psychology.md)
 * [Evolutionary Psychology](psychology/evolutionary-psychology/README.md)
   * [Superstition](psychology/evolutionary-psychology/superstition.md)
 * [Neuropsychology](psychology/neuropsychology/README.md)

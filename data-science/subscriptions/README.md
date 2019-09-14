@@ -1,4 +1,4 @@
-# Subscriptions & Industry Watch
+# Subscriptions
 
 {% embed url="https://ai.google/" %}
 
