@@ -391,5 +391,47 @@
 
 #### **Signal Processing**
 
-#### 
+\*\*\*\*
+
+\*\*\*\*
+
+### **Multivariate Data**
+
+vs. Univariate, bivariate, multivariate  
+Explores the relationship between two or more variables.
+
+#### "r" - Correlation Coefficient
+
+s\_xy is the covariance
+
+$$
+r = s_xy / s_x s_y
+$$
+
+#### Covariance
+
+$$
+cov(x,y) = \sum_i^n (x_i - xmean)(y_i - ymean) / n-1
+$$
+
+#### Positive Correlation
+
+Between -1 and 1  
+r is positive  
+r is negative \(negative correlation\)  
+r is 0 \(no relation\)
+
+#### Regression or "Least Squares Line"
+
+Line that fits the data with the least sum of squared errors  
+If you consider the difference in y on a point at x as predicted by the line
+
+To compute, get mean of x and y, stdev of x and y  
+Get the r score by getting each point's zscore in x and y  
+zscore is \(yi - y\_mean\) / stdev\_y  
+sum all products of zcores of y and x, divide by n-1  
+with this r score, b = r\(s\_y/s\_x\), and a = y\_mean - b\(x\_mean\)  
+best line is then y = bx + a
+
+
 

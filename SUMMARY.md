@@ -76,6 +76,7 @@
   * [Programming Paradigms](computer-science/software-development/programming-paradigms.md)
   * [Subscriptions](computer-science/software-development/subscriptions.md)
 * [Systems](computer-science/systems/README.md)
+  * [Parallelization](computer-science/systems/parallelization.md)
   * [Computer Architecture](computer-science/systems/computer-architecture.md)
   * [Operating Systems](computer-science/systems/operating-systems.md)
 
