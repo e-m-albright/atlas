@@ -90,6 +90,7 @@
 ## Statistics
 
 * [Index](statistics/untitled.md)
+* [Fundamentals](statistics/fundamentals.md)
 * [Experimentation](statistics/experimentation/README.md)
   * [Experimental Design](statistics/experimentation/experimental-design.md)
 * [Distributions](statistics/distributions/README.md)

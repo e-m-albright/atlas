@@ -1,6 +1,22 @@
 # Distributions
 
-Law of large numbers
+### Measures of Center
 
-Central Limit Theorem
+#### Mean
+
+s
+
+#### Median
+
+s
+
+#### Mode
+
+s
+
+### Law of Large Numbers
+
+### Central Limit Theorem
+
+s
 
