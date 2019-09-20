@@ -4,6 +4,8 @@
 * [Taxonomy](taxonomy.md)
 * [Author](what-im-checking-out/README.md)
   * [Evan Albright](https://www.evanalbright.com)
+  * [Podcasts](what-im-checking-out/podcasts.md)
+  * [Reading List](what-im-checking-out/reading-list.md)
 
 ## Data Science
 

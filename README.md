@@ -4,7 +4,7 @@ description: 'late 18th century: from Greek amnēsia ‘forgetfulness’.'
 
 # Amnesia
 
-## If you're here, you're here waaaay too early.
+## Hello
 
 ## Impediments to Remembering
 
