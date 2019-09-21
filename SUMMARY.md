@@ -5,7 +5,10 @@
 * [Author](what-im-checking-out/README.md)
   * [Evan Albright](https://www.evanalbright.com)
   * [Podcasts](what-im-checking-out/podcasts.md)
-  * [Reading List](what-im-checking-out/reading-list.md)
+  * [Reading List](what-im-checking-out/reading-list/README.md)
+    * [Recommendations](what-im-checking-out/reading-list/recommendations.md)
+    * [Audiobooks](what-im-checking-out/reading-list/audiobooks.md)
+* [Film](film.md)
 
 ## Data Science
 

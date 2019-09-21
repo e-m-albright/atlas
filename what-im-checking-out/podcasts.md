@@ -1,10 +1,17 @@
 # Podcasts
 
-**A good search might be at** [**http://www.podcastawards.com/**](http://www.podcastawards.com/)  
+**A good search might be at** [**http://www.podcastawards.com/**](http://www.podcastawards.com/)\*\*\*\*
+
+{% embed url="https://youarenotsosmart.com/podcast/" %}
+
+{% embed url="https://open.spotify.com/show/2Shpxw7dPoxRJCdfFXTWLE" %}
+
+{% embed url="https://www.sbspod.com/?\_\_s=1mm6rjdjgjxphfzah4zf" %}
+
+\*\*\*\*
+
+  
 ****
-
-**Favorites:**  
-
 
 **Some Audible Great Courses + Books count imo**  
 
