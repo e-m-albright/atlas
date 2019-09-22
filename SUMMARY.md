@@ -8,7 +8,7 @@
   * [Reading List](what-im-checking-out/reading-list/README.md)
     * [Recommendations](what-im-checking-out/reading-list/recommendations.md)
     * [Audiobooks](what-im-checking-out/reading-list/audiobooks.md)
-* [Film](film.md)
+  * [Film](what-im-checking-out/film.md)
 
 ## Data Science
 
@@ -55,9 +55,7 @@
     * [Experiments & Metrics](data-science/untitled/statistics/experiments-and-metrics.md)
     * [Dimensionality Reduction](data-science/untitled/statistics/dimensionality-reduction.md)
 * [Subscriptions](data-science/subscriptions.md)
-* [Education](data-science/education.md)
-* [Articles](data-science/articles.md)
-* [Communities](data-science/communities.md)
+* [Education & Practice](data-science/education.md)
 
 ## Computer Science
 
@@ -195,6 +193,7 @@
     * [Fermenting](miscellany/gastronomy/cooking/fermenting.md)
 * [Mechanical Engineering](miscellany/mechanical-engineering/README.md)
   * [Automobiles](miscellany/mechanical-engineering/automobiles.md)
+  * [Untitled](miscellany/mechanical-engineering/untitled.md)
 * [Narratology](miscellany/narratology/README.md)
   * [Tabletop Games](miscellany/narratology/tabletop-games.md)
   * [Books](miscellany/narratology/books.md)
