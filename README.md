@@ -1,8 +1,8 @@
 ---
-description: 'late 18th century: from Greek amnēsia ‘forgetfulness’.'
+description: 'Amnesia, late 18th century: from Greek amnēsia ‘forgetfulness’.'
 ---
 
-# Amnesia
+# Mnemosyne
 
 ## Hello
 

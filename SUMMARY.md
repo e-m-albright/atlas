@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Amnesia](README.md)
+* [Mnemosyne](README.md)
 * [Taxonomy](taxonomy.md)
 * [Author](what-im-checking-out/README.md)
   * [Evan Albright](https://www.evanalbright.com)

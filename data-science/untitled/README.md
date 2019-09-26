@@ -10,3 +10,5 @@
 
 [**great library specific ones**](https://www.datacamp.com/community/data-science-cheatsheets)
 
+\*\*\*\*[**https://jakevdp.github.io/PythonDataScienceHandbook/**](https://jakevdp.github.io/PythonDataScienceHandbook/)\*\*\*\*
+

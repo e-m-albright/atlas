@@ -29,6 +29,20 @@ linear model with one S, r^2 is literally r^2
 
 
 
+Residual Standard Error
+
+Take the average of the y, the error is real y against the average, and is called "the variation". Introducing a linear model \(sloped line\) you should see improvement, and the error should shrink. The degree of reduction is the "explained" variation. The SSR is the variation in y reduced by the model.
+
+### Assumptions
+
+r = sqrt\(R^2\)
+
+assumptions for linear regression - your residuals \(y-y\_mean\)-&gt;residual, should be a normal distribution on the residuals,
+
+#### Independence
+
+Do you see any clear pattern in the residuals? \(x axis fitted, y axis residuals??\)
+
 
 
 
