@@ -39,6 +39,7 @@
       * [Broadcasting](data-science/untitled/programming/python/broadcasting.md)
       * [Parallelization](data-science/untitled/programming/python/parallelization/README.md)
         * [Ray](data-science/untitled/programming/python/parallelization/ray.md)
+        * [Dask](data-science/untitled/programming/python/parallelization/dask.md)
     * [R](data-science/untitled/programming/r.md)
     * [Jupyter](data-science/untitled/programming/jupyter.md)
     * [Regex](data-science/untitled/programming/regex.md)
