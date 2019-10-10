@@ -4,7 +4,8 @@ feather files
 
 decorators
 
-pandas
+pandas  
+pandas-profiling \(main stats overview of datasets\)
 
 numpy
 

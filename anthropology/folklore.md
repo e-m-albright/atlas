@@ -1,4 +1,10 @@
 # Folklore
 
-[https://en.wikipedia.org/wiki/Folklore\_studies](https://en.wikipedia.org/wiki/Folklore_studies)
+{% embed url="https://en.wikipedia.org/wiki/Folklore\_studies" %}
+
+anansi, brer rabbit
+
+baba yagga
+
+greek myths
 
