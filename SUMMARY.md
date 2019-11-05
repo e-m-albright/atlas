@@ -103,6 +103,7 @@
 * [Probability](statistics/probability.md)
 * [Regression](statistics/regression.md)
 * [Signal Processing](statistics/signal-processing.md)
+* [Confidence Intervals](statistics/confidence-intervals.md)
 
 ## Visualization
 
