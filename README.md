@@ -2,6 +2,11 @@
 description: 'Amnesia, late 18th century: from Greek amnēsia ‘forgetfulness’.'
 ---
 
+
+View the gitbook!
+
+https://app.gitbook.com/@eudaimonia/s/atlas/
+
 # Mnemosyne
 
 ## Hello
