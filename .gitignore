@@ -1,3 +1,4 @@
+# -- Git Book tools
 # Node rules:
 ## Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
 .grunt
@@ -14,3 +15,7 @@ _book
 *.epub
 *.mobi
 *.pdf
+
+# -- Editors
+# Jetbrains
+.idea/
